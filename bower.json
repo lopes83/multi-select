@@ -9,6 +9,6 @@
     "./js/jquery.multi-select.js"
   ],
   "dependencies" : {
-    "jquery" : ">= 1.7.1"
+    "jquery" : "2.2.1"
   }
 }
